@@ -24,7 +24,7 @@ define('DB_USER', 'admin');
 /** MySQL database password */
 define('DB_PASSWORD', '0g57215!&&');
 /** MySQL hostname */
-define('DB_HOST', '');
+define('DB_HOST', 'awsdemowordpress.crjhebtxjgew.eu-west-1.rds.amazonaws.com:3306');
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
 /** The Database Collate type. Don't change this if in doubt. */
